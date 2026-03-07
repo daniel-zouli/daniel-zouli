@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Daniel </h2> <p> I'm a second-year Computer Science student with a minor in Mathematics. 
+<h2>Hi 👋, I'm Daniel </h2> <p> I'm a second-year <u>Computer Science</u> student with a minor in <u>Mathematics</u>. 
   
 ## Languages & Tools (Tech Stack)
 
